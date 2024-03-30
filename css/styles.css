@@ -192,12 +192,13 @@ color: #2e2f42;
 
 .section-two-li{
     list-style: none;
+    width: calc((100% - 72px) / 4);
 }
 
 .section-two-ul{
     display: flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
+   
 }
 /*------------------/section two-----------------------------------*/
 
