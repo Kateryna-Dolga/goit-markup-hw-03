@@ -81,6 +81,9 @@ color: #404bbf;
 /*-----------------/header-------------------------------------------------------------*/
 
 /*------------------section one-----------------------------------*/ 
+div .div-section-one{
+    padding: 188px 0;
+}
 .section-one{
     background: #2e2f42;
  
@@ -93,18 +96,15 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+max-width: 496px;
 }
 
 
 .order-service{
 font-family: "Roboto", sans-serif;
 justify-content: flex-start;
-
-
-
-
-
-
+display: block;
+margin: 0 auto;
 background: #4d5ae5;
 font-weight: 500;
     font-size: 16px;
