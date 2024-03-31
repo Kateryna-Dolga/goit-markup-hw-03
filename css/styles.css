@@ -23,7 +23,6 @@ a {
 li {
     margin: 0;
     list-style: none;
-
     padding-left: 0;
 }
 
@@ -72,6 +71,7 @@ font-family: "Raleway", sans-serif;
 color: #4d5ae5;
 margin: 0 76px 0 0;
 }
+
 .header-studio {
   
     color: #2e2f42;
@@ -130,10 +130,13 @@ color: #404bbf;
 .section-one{
     background: #2e2f42;
 padding: 188px 0;
-
+text-align: center;
 }
 
+
+
 .effective-solutions{
+
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -194,7 +197,7 @@ color: #2e2f42;
 
 }*/
 
-.visually-hidden{
+.container .visually-hidden{
 display: none;
 overflow: hidden;
 font-weight: 700;
