@@ -271,17 +271,14 @@ width: calc((100% - 72px) / 4);
 
 
 /*------------------section fourth-----------------------------------*/
-.section-fourth .container {
 
-    padding: 0 15px;
-    display: flex;
-}
 .section-fourth{
     padding: 120px 0;
 }
 
 .our-portfolio-htwo{
     margin-bottom: 72px;
+    display: block;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
