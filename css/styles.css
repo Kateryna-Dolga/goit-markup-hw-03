@@ -15,20 +15,21 @@ img{
  
    
 }
-a {
+a {padding: 0;
     margin: 0;
     text-decoration: none;
 }
 
 li {
-    margin: 0;
+   margin: 0;
+   padding: 0;
     list-style: none;
-    padding-left: 0;
+  
 }
-
 
 p {
     margin: 0;
+    padding: 0;
 }
 
 h1,
@@ -36,11 +37,11 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6 {padding: 0;
     margin: 0;
 }
 
-span {
+span {padding: 0;
     margin: 0;
 }
 /*-----------------header-------------------------------------------------------------*/
@@ -129,8 +130,8 @@ color: #404bbf;
 
 .section-one{
     background: #2e2f42;
-padding: 188px 0;
-text-align: center;
+    padding: 188px 0;
+
 }
 
 
@@ -152,7 +153,7 @@ margin: 0 auto;
 font-family: "Roboto", sans-serif;
 justify-content: flex-start;
 display: block;
-margin: 48px auto 0 auto;
+margin: 0 auto;
 background: #4d5ae5;
 font-weight: 500;
     font-size: 16px;
@@ -177,7 +178,7 @@ background-color: #404BBF;
 
 
 
-/*------------------/section one---------------------------------*/
+/*------------------/section one-----------------------------------*/
 
 /*------------------section two-----------------------------------*/
 
