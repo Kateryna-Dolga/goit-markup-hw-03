@@ -76,6 +76,8 @@ a { margin: 0;
 
 li{margin: 0;
     list-style: none;
+    
+        padding-left: 0;
 }
 p{
     margin: 0;
@@ -327,6 +329,8 @@ color: #2e2f42;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    margin: 0;
+        padding-left: 0;
    
 }
 
@@ -334,8 +338,7 @@ li .our-portfolio-li{
     border: 1px solid #e7e9fc;
     width: calc((100% - 48px) / 3);
     background: #fff;
-    margin: 0;
-        padding-left: 0;
+  
 }
 
 .section-fourth-hthree-p{
