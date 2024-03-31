@@ -186,12 +186,13 @@ color: #2e2f42;
 .visually-hidden{
 display: none;
 overflow: hidden;
-font-weight: 700;
+
+/*font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #2e2f42;*/
 }
 
 
