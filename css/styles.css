@@ -330,7 +330,7 @@ color: #2e2f42;
    
 }
 
-li .our-portfolio-li{
+.our-portfolio-li{
     border: 1px solid #e7e9fc;
     width: calc((100% - 48px) / 3);
     background: #fff;
