@@ -11,7 +11,8 @@ img{
 
 .container {
    
- 
+width: 1158px;
+    margin: 0 auto;
    
 }
 a {padding: 0;
@@ -76,7 +77,7 @@ margin: 0 76px 0 0;
 .header-studio {
   
     color: #2e2f42;
-    margin: 0;
+  
 }
 
 .header-ul{
@@ -142,7 +143,7 @@ font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #fff;
 max-width: 496px;
 margin: 0 auto;
