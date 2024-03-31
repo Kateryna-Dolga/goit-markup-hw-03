@@ -171,7 +171,7 @@ background-color: #404BBF;
 
 
 
-.section-two-htwo {
+/*.section-two-htwo {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
@@ -179,7 +179,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 
-}
+}*/
 
 .visually-hidden{
 display: none;
@@ -328,6 +328,8 @@ li .our-portfolio-li{
     border: 1px solid #e7e9fc;
     width: calc((100% - 48px) / 3);
     background: #fff;
+    margin: 0;
+        padding-left: 0;
 }
 
 .section-fourth-hthree-p{
