@@ -168,24 +168,20 @@ background-color: #404BBF;
     padding: 120px 0;
 }
 
-.visually-hidden{
 
-}
 
-.section-two-htwo {
+.visually-hidden {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-
-}
-
-.visually-hidden{
 display: none;
-overflow: hidden;
+    overflow: hidden;
 }
+
+
 
 
 .section-two-hthree{
