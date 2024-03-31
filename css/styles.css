@@ -64,6 +64,7 @@ display: flex;
 } 
 
 .header{
+ padding: 24px 0;
     border-bottom: 1px solid #e7e9fc;
 }
 
@@ -109,6 +110,7 @@ color:#404bbf;
 }
 
 .email-tel{
+
 font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -124,6 +126,7 @@ color: #404bbf;
 }
 
 .address{
+        text-align: right;
     font-style: normal;
 }
 
