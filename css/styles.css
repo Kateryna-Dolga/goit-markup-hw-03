@@ -298,7 +298,7 @@ color: #2e2f42;
 }
 
 .our-portfolio-p{
-    font-weight: 400;
+        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -314,11 +314,10 @@ color: #2e2f42;
    
 }
 
-.our-portfolio-li{
+li .our-portfolio-li{
     border: 1px solid #e7e9fc;
     width: calc((100% - 48px) / 3);
-
-background: #fff;
+    background: #fff;
 }
 
 .section-fourth-hthree-p{
